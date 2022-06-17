@@ -1,0 +1,13 @@
+.orders-wrapper > div {
+    display: inline-block;
+    flex-wrap: wrap;
+    flex-direction: row;
+    height: 150px;
+    width: 150px;
+    background-color: brown;
+    margin: 5px;
+    color: #fffdef;
+    font-size: 40px;
+    text-align: center;
+    line-height: 150px;
+}
